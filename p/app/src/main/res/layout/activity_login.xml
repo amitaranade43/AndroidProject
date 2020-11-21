@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.root.sqllite.Login">
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:hint="Enter UserName"
+        android:singleLine="true"
+        />
+    <EditText
+        android:id="@+id/lpass"
+        android:layout_width="match_parent"
+        android:singleLine="true"
+        android:inputType="textPassword"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:hint="Enter Password"
+        android:layout_below="@+id/username"
+        />
+    <Button
+        android:id="@+id/signin"
+        android:layout_height="wrap_content"
+        android:layout_width="300dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="Log In"
+        android:layout_below="@+id/lpass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        />
+</RelativeLayout>

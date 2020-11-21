@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amita\.android\build-cache\b4007ccf6deb0327014a5cf0199720ec9195b2c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\Amita\Downloads\project\p\app\build\intermediates\pre-dexed\debug\classes_e146076a58bfe1135a1f5a72785ab633e6814f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amita\.android\build-cache\64458aaa00712e29a98831a7076b38847113fc5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\Amita\Downloads\project\p\app\build\intermediates\pre-dexed\debug\classes_d727c530535505564d7c6c9fc8ff6c117298faf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amita\.android\build-cache\0076f495b5a1d3fc4aafabd5f6466e080ec8a8fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\Amita\Downloads\project\p\app\build\intermediates\pre-dexed\debug\classes_31f43fe360c00d656543255bb2f45af48cce52f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Amita\.android\build-cache\92390ac4319185021f66f89e3650d9590b4ba5cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\Amita\Downloads\project\p\app\build\intermediates\pre-dexed\debug\classes_eef61d6fea7b9c8b5dbcc92b249a4994f9713550.jar" />
+    </item>
+
+</items>
