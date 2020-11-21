@@ -38,7 +38,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value=" AIzaSyBrWdt6KPgjBKLTYmA813jBv2Q7518MPxI " />
+            android:value=" Please replace this with API Key " />
 
         <activity android:name=".Cart"></activity>
     </application>
